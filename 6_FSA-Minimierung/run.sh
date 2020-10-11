@@ -1,0 +1,1 @@
+python hopcroft.py wordlist
